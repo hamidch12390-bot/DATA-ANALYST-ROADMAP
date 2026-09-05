@@ -32,14 +32,14 @@ This repo helps me:
 <span>✅ = Completed | 🔄= In&nbsp;Progress | ⏳ = Coming Soon</span>
 
 <ol>
-  <li>✅ Python</li>
+  <li>🔄 Python</li>
   <li>✅ Statistics</li>
-  <li>✅ Pandas</li>
-  <li>🔄 NumPy</li>
+  <li>⏳ Pandas</li>
+  <li>⏳ NumPy</li>
   <li>⏳ Matplotlib</li>
   <li>⏳ Seaborn</li>
   <li>⏳ Plotly</li>
-  <li>⏳ Excel</li>
+  <li>✅ Excel</li>
   <li>⏳ Power BI / Tableau</li>
   <li>⏳ SQL</li>
   <li>⏳ Scikit-learn</li>
