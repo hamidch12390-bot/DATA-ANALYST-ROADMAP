@@ -18,7 +18,7 @@ This repo documents my step-by-step journey through the <b>DSGuru Roadmap</b>, w
 
 ## 🌱 Why this repo?
 
-I’m learning Data Science with a group called <b>DSGuru</b>.  
+I’m learning Data Science with a group called <b>Dat Tech Solution</b>.  
 This repo helps me:
 
 - 🗂️ Keep everything organized (assignments, notes, resources).
